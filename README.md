@@ -4,6 +4,7 @@
 [![Releases](https://img.shields.io/github/v/release/TakWolf/aseprite-universal-pixel-theme)](https://github.com/TakWolf/aseprite-universal-pixel-theme/releases)
 [![GitHub](https://img.shields.io/badge/github-universal--pixel--theme-orange?logo=github&logoColor=white)](https://github.com/TakWolf/aseprite-universal-pixel-theme)
 [![Itch.io](https://img.shields.io/badge/itch.io-universal--pixel--theme-FF2449?logo=itch.io&logoColor=white)](https://takwolf.itch.io/aseprite-universal-pixel-theme)
+[<img src="https://api.gitsponsors.com/api/badge/img?id=660467109" height="20">](https://api.gitsponsors.com/api/badge/link?p=xATNPW/gnlOZaiHVFn/VNrVFu7FYNdd54eZT1bwYjHpQlyacazIdKCBY52rL5yvQ7zUkvrTuPtiiffB7m/E7ZeN9HIZ4RgB876oIMcmX7Y8scdaaK/UlAauSodtim6k3ZKyXgRH4Xr1P0BYEaNORBg==)
 
 支持多语言的具有默认主题外观的像素主题。
 
